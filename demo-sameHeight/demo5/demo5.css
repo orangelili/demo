@@ -1,0 +1,17 @@
+.wrap{
+    height: 400px;
+    display: flex;
+    flex-flow: row wrap;
+}
+.left{
+    width:100px;
+    background-color: #2aabd2;
+}
+.center{
+    flex: 1;
+    background-color: #dedede;
+}
+.right{
+    width:100px;
+    background-color: #2aabd2;
+}

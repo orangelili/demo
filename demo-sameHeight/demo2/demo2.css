@@ -1,0 +1,22 @@
+.wrap{
+    width: 100%;
+    display:table;
+}
+.wrap div{
+    display: table-cell;
+}
+.pull-left{
+    width: 100px;
+    height: 400px;
+    background-color: #2aabd2;
+}
+.center{
+    width: auto;
+    height: 400px;
+    background-color: #dedede;
+}
+.pull-right{
+    width: 100px;
+    height: 400px;
+    background-color: #2aabd2;
+}

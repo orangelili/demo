@@ -1,0 +1,21 @@
+.wrap{
+    width: 100%;
+}
+.wrap div{
+    display: inline-block;
+}
+.pull-left{
+    width: 10%;
+    height: 400px;
+    background-color: #2aabd2;
+}
+.center{
+    width: 80%;
+    height: 400px;
+    background-color: #dedede;
+}
+.pull-right{
+    width: 10%;
+    height: 400px;
+    background-color: #2aabd2;
+}
