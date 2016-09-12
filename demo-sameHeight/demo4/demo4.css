@@ -1,0 +1,25 @@
+.wrap{
+    height: 400px;
+    width: 100%;
+    background-color: #dedede;
+    position: relative;
+}
+.pull-left{
+    width: 100px;
+    height: 100%;
+    background-color: #2aabd2;
+    position: absolute;
+    left:0;
+    top:0;
+}
+.center{
+    padding: 0 100px;
+}
+.pull-right{
+    width: 100px;
+    height: 100%;
+    background-color: #2aabd2;
+    position: absolute;
+    right:0;
+    top:0;
+}
