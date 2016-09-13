@@ -1,0 +1,23 @@
+.wrap{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    display:table;
+}
+.wrap div{
+    display: table-cell;
+}
+.pull-left{
+    width: 100px;
+    background-color: #2aabd2;
+}
+.center{
+    width: auto;
+    background-color: #dedede;
+}
+.pull-right{
+    width: 100px;
+    background-color: #2aabd2;
+}
