@@ -323,27 +323,33 @@ ul li{
 .button-group a{
     margin-right: 10px;
 }
-
-
-
-
-
-.school-head{
-    background-color: #2aabd2;
+.school-info{
+    color: #fff;
+    font-size: 18px;
+    padding: 5px 0;
+    margin: 10px 0;
+    background-color: #20acea;
 }
-.school-body ul li{
-    background-color: #f3f3f3;
+.school-normal{
+    color: #636363;
+    font-size: 18px;
 }
-.school-body .media-left{
-    padding-top: 10px;
+.contact{
+    border:4px solid #20acea;
+    padding: 0 15px 15px 15px;
+    margin: 20px 0;
 }
-.school-body .media:first-child{
-    margin-top: 15px;
+.contact-blue{
+    background-color:#20acea;
+    padding: 0 5px;
+    color: #fff;
 }
-.school-body .media .media-body p{
-    font-size: 12px;
-    line-height: 1em;
+.footer{
+    padding: 15px 0;
 }
-.f-blue{
-    color: #2aabd2;
+.footer p{
+    color: #fff;
+}
+.footer p a{
+    color: #fff;
 }
